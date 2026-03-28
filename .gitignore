@@ -3,6 +3,8 @@ node_modules/
 dist/
 .DS_Store
 .env
+.npm-cache/
+app/.npm-cache/
 
 # Rust
 /app/src-tauri/target/
